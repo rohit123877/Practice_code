@@ -39,7 +39,7 @@ public class linkList {
 		
 	for(WebElement el:allDropDownOption)
 	{
-		System.out.println(el.getText() );
+		System.out.println(el.getText() ); 
 	}
 	//	driver.close();
 	}
